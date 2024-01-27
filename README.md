@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denuwanhendalage
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python,C++,Java
 - 🌱 I’m currently learning about Engineering
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on instergram (shashanka denuwan)
