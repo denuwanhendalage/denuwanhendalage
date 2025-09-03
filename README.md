@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🎓 I'm currently studying **Computer Science & Engineering** at the **University of Moratuwa**  
-- 💡 Specializing in **Data Science and Engineering (DSE)** (CGPA: 3.52/4.0)  
+- 💡 Specializing in **Data Science and Engineering (DSE)**  
 - 🤖 Passionate about **Machine Learning, AI, and Full-Stack Development**  
 - 🌱 Currently exploring **Deep Learning & Generative AI**  
 - ⚡ Fun fact: I love building **end-to-end systems** from backend to AI  
